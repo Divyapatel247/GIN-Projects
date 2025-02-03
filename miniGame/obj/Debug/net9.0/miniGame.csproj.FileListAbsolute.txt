@@ -1,0 +1,15 @@
+C:\Users\dipatel\Projects\miniGame\bin\Debug\net9.0\miniGame.exe
+C:\Users\dipatel\Projects\miniGame\bin\Debug\net9.0\miniGame.deps.json
+C:\Users\dipatel\Projects\miniGame\bin\Debug\net9.0\miniGame.runtimeconfig.json
+C:\Users\dipatel\Projects\miniGame\bin\Debug\net9.0\miniGame.dll
+C:\Users\dipatel\Projects\miniGame\bin\Debug\net9.0\miniGame.pdb
+C:\Users\dipatel\Projects\miniGame\obj\Debug\net9.0\miniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipatel\Projects\miniGame\obj\Debug\net9.0\miniGame.AssemblyInfoInputs.cache
+C:\Users\dipatel\Projects\miniGame\obj\Debug\net9.0\miniGame.AssemblyInfo.cs
+C:\Users\dipatel\Projects\miniGame\obj\Debug\net9.0\miniGame.csproj.CoreCompileInputs.cache
+C:\Users\dipatel\Projects\miniGame\obj\Debug\net9.0\miniGame.sourcelink.json
+C:\Users\dipatel\Projects\miniGame\obj\Debug\net9.0\miniGame.dll
+C:\Users\dipatel\Projects\miniGame\obj\Debug\net9.0\refint\miniGame.dll
+C:\Users\dipatel\Projects\miniGame\obj\Debug\net9.0\miniGame.pdb
+C:\Users\dipatel\Projects\miniGame\obj\Debug\net9.0\miniGame.genruntimeconfig.cache
+C:\Users\dipatel\Projects\miniGame\obj\Debug\net9.0\ref\miniGame.dll
