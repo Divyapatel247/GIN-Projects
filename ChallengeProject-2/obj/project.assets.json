@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net9.0": []
   },
   "packageFolders": {
     "C:\\Users\\dipatel\\.nuget\\packages\\": {}
@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dipatel\\Projects\\ChallengeProject-2\\Starter.csproj",
-      "projectName": "Starter",
-      "projectPath": "C:\\Users\\dipatel\\Projects\\ChallengeProject-2\\Starter.csproj",
+      "projectUniqueName": "C:\\Users\\dipatel\\Projects\\ChallengeProject-2\\ChallengeProject-2.csproj",
+      "projectName": "ChallengeProject-2",
+      "projectPath": "C:\\Users\\dipatel\\Projects\\ChallengeProject-2\\ChallengeProject-2.csproj",
       "packagesPath": "C:\\Users\\dipatel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dipatel\\Projects\\ChallengeProject-2\\obj\\",
       "projectStyle": "PackageReference",
@@ -23,14 +23,14 @@
         "C:\\Users\\dipatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -47,8 +47,8 @@
       "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",

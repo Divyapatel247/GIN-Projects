@@ -1,0 +1,37 @@
+# Ignore build output directories
+bin/
+obj/
+ 
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.plist
+*.sln.docstates
+ 
+# Ignore Visual Studio working folders
+.vscode/
+.vs/
+ 
+# Ignore NuGet packages
+*.nupkg
+# Packages folder
+**/packages/
+# NuGet project.lock.json files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+ 
+# Ignore temporary files
+*.log
+*.tlog
+*.tmp
+ 
+# Ignore generated files
+*.Generated.cs
+*.designer.cs
+*.g.i.cs
+*.cache/
+ 
+# Ignore Rider IDE
+.idea/
